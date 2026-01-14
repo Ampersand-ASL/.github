@@ -7,8 +7,13 @@ around ham radio linking.
 * To maintain compatibility with the rest of the ASL ecosystem. This **is not** a fork
 of ASL or an attempt to create a parallel network.
 
+This project was originated by [Bruce MacKinnon (KC1FSZ)](https://www.qrz.com/db/KC1FSZ)
+of the [Wellesley Amateur Radio Society](https://ema.arrl.org/wellesley-amateur-radio-society/) in Wellesley, MA. Please reach out using the e-mail address provided in QRZ. Or you can try me on AllStar 
+node 672730, as long as I'm not in the middle of a compile.
+
 Important Links:
 
 * [The AllStarLink home page](https://www.allstarlink.org).
 * [The main documentation page](http://mackinnon.info/ampserand).
+
 
