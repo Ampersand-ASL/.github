@@ -13,7 +13,7 @@ node 672730, as long as I'm not in the middle of a compile.
 
 Important Links:
 
+* [The Ampersand documentation page](https://mackinnon.info/ampersand).
 * [The AllStarLink home page](https://www.allstarlink.org).
-* [The main documentation page](https://mackinnon.info/ampserand).
 
 
