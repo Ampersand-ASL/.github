@@ -13,14 +13,15 @@ node 672730, as long as I'm not in the middle of a compile. [I'm also on LinkedI
 
 This follows a very [similar project for EchoLink](https://github.com/brucemack/microlink).
 
-If you are a developer looking for the Ampersand code [start here](https://github.com/Ampersand-ASL/amp-server).
+If you are a developer looking for the Ampersand Server code [start here](https://github.com/Ampersand-ASL/amp-server).
 
 Important Links:
 * [The main Ampersand documentation page](https://mackinnon.info/ampersand).
 * [User/Installation Guide](https://github.com/Ampersand-ASL/amp-server/blob/main/docs/user.md) for the current release.
+* [The ASL Parrot repo](https://github.com/Ampersand-ASL/asl-parrot?tab=readme-ov-file).
 * [The AllStarLink home page](https://www.allstarlink.org).
 
-Other Information:
+Other Related Information:
 * [A short YouTube video showing an early demo](https://www.youtube.com/watch?v=vRurT4k_Jy4&feature=youtu.be) of the Ampersand Server
 paired with the latest [AllScan](https://allscan.info/) audio interface hardware. Thanks to David NR9V for posting this.
 * [The original thread on the AllStarLink Community Forum](https://community.allstarlink.org/t/a-minimal-asl-node-without-asterisk-dependency-r-d/23879) with some background. 
