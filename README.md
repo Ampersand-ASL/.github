@@ -9,3 +9,8 @@ around ham radio linking.
 * To maintain compatibility with the rest of the ASL ecosystem. This **is not** a fork
 of ASL or an attempt to create a parallel network.
 
+Important Links:
+
+* [The AllStarLink home page](https://www.allstarlink.org).
+* [The main documentation page](http://mackinnon.info/ampserand).
+
