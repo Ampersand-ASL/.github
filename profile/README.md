@@ -22,7 +22,7 @@ Important Links:
 
 Other Information:
 * [A short YouTube video showing an early demo](https://www.youtube.com/watch?v=vRurT4k_Jy4&feature=youtu.be) of the Ampersand Server
-paired with the latest [AllScan](https://allscan.info/) audio interface hardware.
-* [The original thread on the AllStarLink Community Forum](https://community.allstarlink.org/t/a-minimal-asl-node-without-asterisk-dependency-r-d/23879) with some background.
+paired with the latest [AllScan](https://allscan.info/) audio interface hardware. Thanks to David NR9V for posting this.
+* [The original thread on the AllStarLink Community Forum](https://community.allstarlink.org/t/a-minimal-asl-node-without-asterisk-dependency-r-d/23879) with some background. 
 
 
