@@ -1,5 +1,3 @@
-# The Ampserand Linking Project
-
 The purposes of this project:
 * To provide hams with a simple way to link radios to 
 the [AllStarLink](https://www.allstarlink.org) network. Radio-less applications are also supported (conference
