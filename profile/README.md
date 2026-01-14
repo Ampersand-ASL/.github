@@ -13,7 +13,8 @@ node 672730, as long as I'm not in the middle of a compile.
 
 Important Links:
 
-* [The Ampersand documentation page](https://mackinnon.info/ampersand).
+* [The main Ampersand documentation page](https://mackinnon.info/ampersand).
+* [User/Installation Guide for the current release](https://github.com/Ampersand-ASL/amp-server/blob/main/docs/user.md)
 * [The AllStarLink home page](https://www.allstarlink.org).
 
 
